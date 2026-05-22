@@ -1,4 +1,4 @@
-# Model Risk Register — AI in Financial Services
+# Model Risk Register: AI in Financial Services
 
 ![Framework](https://img.shields.io/badge/Framework-NIST%20AI%20RMF-navy)
 ![Standard](https://img.shields.io/badge/Standard-ISO%2FIEC%2042001-blue)
@@ -56,18 +56,13 @@ function. Third line: internal audit.
 
 ---
 
-## File Structure
+## File Contents
 
-\```
-model-risk-register-ai-banking/
-│
-├── Model_Risk_Register_AI_Banking.xlsx
-│   ├── Cover Sheet         Methodology, author, and document metadata
-│   ├── Model Risk Register Six AI systems fully assessed
-│   └── Risk Rating Key     Definitions for all tiers, ratings, and statuses
-│
-└── README.md
-\```
+- **Model_Risk_Register_AI_Banking.xlsx**
+  - Cover Sheet: Methodology, author, and document metadata
+  - Model Risk Register: Six AI systems fully assessed
+  - Risk Rating Key: Definitions for all tiers, ratings, and statuses
+- **README.md**
 
 ---
 
